@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Gourmet Menu",
+  title: "Little Paris",
   description: "Experience our delicious menu.",
 };
 
